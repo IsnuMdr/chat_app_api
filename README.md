@@ -22,9 +22,17 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
+# API for Simple Chatting App with GraphQL
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+
+## Preview
+
+![Screenshot 2024-12-06 101406](https://github.com/user-attachments/assets/cdf3004d-8fa8-4de6-a183-785dce78e9a8)
+![Screenshot 2024-12-06 101458](https://github.com/user-attachments/assets/e0bdcf31-b679-4375-b132-f40df954b18a)
+![Screenshot 2024-12-06 101512](https://github.com/user-attachments/assets/c639f5eb-aad9-44fd-a8c2-7d7e1c2cc4ba)
+![Screenshot 2024-12-06 101522](https://github.com/user-attachments/assets/e3aeeb74-6cf2-4a1a-b766-e9452892b6fa)
 
 ## Project setup
 
@@ -44,6 +52,9 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 ```
+
+## Clone and Install for Frontend App
+- [Simple Chatting App with GraphQL (Frontend)](https://github.com/IsnuMdr/chat_app_fe)
 
 ## Run tests
 
